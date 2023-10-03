@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class MinMaxCalculation {
+package PACKAGE_NAME;
+
+public class MinMaxCalculation {
 }
